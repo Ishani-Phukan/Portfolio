@@ -1,0 +1,29 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    background-color:#ffefcd;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+/*Code for the navigation bar*/
+#navbar{
+    background-color: #424530;
+    padding:5px;
+}
+#navbar>a{
+    margin-right: 200px;
+    background-color: #424530;
+    color: white;
+}
+img{
+    display: inline;
+    border-radius: 50%;
+}
+#intro{
+    display: inline;
+    text-align: justify;
+    height: 50px;
+    width: 50px;
+}
